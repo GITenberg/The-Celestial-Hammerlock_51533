@@ -1,0 +1,27 @@
+_repo: The-Celestial-Hammerlock_51533
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colvin, Donald
+    gutenberg_agent_id: '46128'
+    url: http://www.gutenberg.org/2009/agents/46128
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space colonies -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Wrestlers -- Fiction'
+- GITenberg
+title: The Celestial Hammerlock
+url: http://www.gutenberg.org/ebooks/51533
